@@ -1,4 +1,5 @@
 # Programa principal
+
 from libraryGame import Renderer, V3
 from obj import Texture
 from shaders import *
